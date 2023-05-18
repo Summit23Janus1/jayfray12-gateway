@@ -8,7 +8,7 @@ metadata:
     backstage.io/kubernetes-namespace: jayfray12
     backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance=jayfray12-poi-gateway-app-dev'
     backstage.io/techdocs-ref: dir:.
-    janus-idp.io/tekton-enabled : 'false'
+    janus-idp.io/tekton-enabled : 'true'
     github.com/project-slug: Summit23Janus1/jayfray12-gateway
   tags:
     - java
